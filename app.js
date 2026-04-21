@@ -30,7 +30,4 @@ try {
 }
 
 app.use('/users', UserRoutes);
-// app.get('/james', async (request, response) => {
-//     response.status(200).json({message: 'Hello, James Reyes!'});
-// });
 
